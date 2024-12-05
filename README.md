@@ -10,7 +10,7 @@ Acompanhe o deploy do projeto em : https://go-shop-ecommerce.vercel.app/
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 - **Redux**: Biblioteca para gerenciamento de estado da aplicação.
 - **Material-UI**: Biblioteca de componentes React para um design consistente e responsivo.
-- **Axios**: Cliente HTTP para realizar requisições à API.
+- **Fetch**: Cliente HTTP para realizar requisições à API.
 - **Tailwind CSS**: Framework de CSS utilitário para estilização rápida e eficiente.
 - **Stripe**: Plataforma de pagamentos para processar transações online.
 
