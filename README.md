@@ -1,7 +1,7 @@
 # goSHOP E-Commerce
 
 Este projeto é uma plataforma de e-commerce, utilizando diversas tecnologias modernas para criar uma aplicação web funcional e responsiva.
-Acompanhe o deploy do projeto em : https://goshop.vercel.app
+Acompanhe o deploy do projeto em : https://go-shop-ecommerce.vercel.app/
 
 ## Tecnologias Utilizadas
 
