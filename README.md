@@ -1,53 +1,52 @@
 # goSHOP E-Commerce
 
-Este projeto é uma plataforma de e-commerce, utilizando diversas tecnologias modernas para criar uma aplicação web funcional e responsiva.
-Acompanhe o deploy do projeto em : https://go-shop-ecommerce.vercel.app/
+This project is an e-commerce platform using various modern technologies to create a functional and responsive web application.  
+Follow the project deployment at: [https://go-shop-ecommerce.vercel.app/](https://go-shop-ecommerce.vercel.app/)
 
-## Tecnologias Utilizadas
-
+## Technologies Used
 ### Frontend
 
-- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
-- **Redux**: Biblioteca para gerenciamento de estado da aplicação.
-- **Material-UI**: Biblioteca de componentes React para um design consistente e responsivo.
-- **Fetch**: Cliente HTTP para realizar requisições à API.
-- **Tailwind CSS**: Framework de CSS utilitário para estilização rápida e eficiente.
-- **Stripe**: Plataforma de pagamentos para processar transações online.
+- **React**: JavaScript library for building user interfaces.
+- **Redux**: Library for managing the application state.
+- **Material-UI**: React component library for consistent and responsive design.
+- **Fetch**: HTTP client for making requests to the API.
+- **Tailwind CSS**: Utility-first CSS framework for fast and efficient styling.
+- **Stripe**: Payment platform for processing online transactions.
 
-### Autenticação
+### Authentication
 
-- **Next-Auth**: Serviço de autenticação para gerenciar usuários e sessões.
+- **Next-Auth**: Authentication service for managing users and sessions.
 
-### Hospedagem
+### Hosting
 
-- **Vercel**: Plataforma de hospedagem para aplicações frontend, proporcionando deploys rápidos e automáticos.
+- **Vercel**: Hosting platform for frontend applications, providing fast and automatic deployments.
 
-### Outras Ferramentas
+### Other Tools
 
-- **Git**: Sistema de controle de versão.
-- **GitHub**: Plataforma de hospedagem de código-fonte e colaboração.
-- **Postman**: Ferramenta para testar APIs.
+- **Git**: Version control system.
+- **GitHub**: Code hosting and collaboration platform.
+- **Postman**: Tool for testing APIs.
 
-## Como Executar o Projeto
+## How to Run the Project
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/seu-usuario/goshop.git
    ```
 
-2. Instale as dependências do frontend:
+2. Install frontend dependencies:
 
    ```bash
    cd frontend
    npm install
    ```
 
-3. Inicie o servidor frontend:
+3. Start the frontend server:
    ```bash
    npm start
    ```
 
-## Licença
+## License
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is licensed under the MIT License. See the LICENSE file for more details.
